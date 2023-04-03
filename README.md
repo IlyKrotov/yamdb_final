@@ -1,4 +1,4 @@
-![workflow status badge](https://github.com/IlyKrotov/yamdb_final/actions/workflows/main.yml/badge.svg)
+![workflow status badge](https://github.com/IlyKrotov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # Описание YaMDb
 
@@ -47,3 +47,15 @@ DB_PORT=5432 # порт для подключения к БД
 Проект доступен по адресу: 
 
 http://localhost:80
+
+## Авторы
+- [Ily Krotov](https://github.com/IlyKrotov)
+- [YANDEX PRACTICUM](https://github.com/yandex-praktikum)
+
+
+## Технологии
+- Python 3.7.0
+- Django 2.2
+- Django REST framework
+- NGINX
+- Docker
